@@ -15,7 +15,7 @@ import java.util.Arrays;
 
 import static springfox.documentation.builders.PathSelectors.regex;
 
-//@Configuration
+@Configuration
 @EnableSwagger2
 @Profile("!test")
 public class SwaggerConfig {

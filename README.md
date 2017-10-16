@@ -1,7 +1,7 @@
 # MoneyTransferService
 Ingenico Challenge
 
-This project is a maven project.
+This project is a maven project.<br/>
 It could be worked with "spring-boot:run" command after build.
 Project is built as it does not need any database. H2Sql embedded database was used.
 Database could be switched to Mysql, just put up comment lines in application.properties. Also other databases could be used if desired.

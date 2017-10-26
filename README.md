@@ -9,5 +9,4 @@ Ingenico Challenge
 -Project details is printed as a json file on localhost:8099<br/>
 -I used "SWAGGER" interface to monitor services.<br/>
 -Services, Requests and Documents could be reached by http://localhost:8099/swagger-ui.html#/  Here is swagger interface<br/>
--Swagger interface login information : username:gokhan.polat password:gokhan1990 they are specified in application.properties.<br/><br/>
--@Configuration annotation should be removed from SwaggerConfig class before unit tests run.
+-Swagger interface login information : username:gokhan.polat password:gokhan1990 they are specified in application.properties.<br/>
